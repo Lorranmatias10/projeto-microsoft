@@ -1,0 +1,9 @@
+@media (max-widht: 480px) {
+
+    header  {
+        .list-microsoft {
+            display: none;
+        }
+    }
+
+}
